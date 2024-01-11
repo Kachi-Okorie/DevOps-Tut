@@ -1,4 +1,4 @@
-package sampleproject.src.main.java.com.harpycloud;
+package src.main.java.com.harpycloud;
 
 /**
  * Hello world!
